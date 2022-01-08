@@ -1,0 +1,15 @@
+{
+	"pack":{
+		"pack_format": 8,
+		"description": [
+			{
+				"text": "Get blockstates as NBT data",
+				"color": "#a47dff"
+			},
+			{
+				"text": "\nCreated by OliTheHoodieBoi",
+				"color": "#83e35d"
+			}
+		]
+	}
+}
