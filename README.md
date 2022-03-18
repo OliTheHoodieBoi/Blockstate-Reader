@@ -1,4 +1,4 @@
-# Blockstate Reader
+# Blockstate Reader ![Minecraft version](https://img.shields.io/static/v1?label=minecraft%20version&message=1.18.2&color=informational&style=for_the_badge) ![Latest release](https://img.shields.io/github/v/release/OliTheHoodieBoi/Blockstate-Reader?label=latest%20release)
 A Minecraft data pack for reading blockstates to an NBT storage.
 
 ## Features
